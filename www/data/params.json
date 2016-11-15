@@ -1,0 +1,28 @@
+{
+    "ParameterList": {
+        "Count": 3,
+        "Message": "Success",
+        "ParameterArray": {
+            "Parameter": [
+                {
+                    "Country": "US",
+                    "Ecomm": "NO",
+                    "Period": "Monthly",
+                    "Sector": "U.S.NaturalandOrganicGroceryStores"
+                },
+                {
+                    "Country": "US",
+                    "Ecomm": "NO",
+                    "Period": "Quarterly",
+                    "Sector": "U.S.NaturalandOrganicGroceryStores"
+                },
+                {
+                    "Country": "US",
+                    "Ecomm": "NO",
+                    "Period": "Weekly",
+                    "Sector": "U.S.NaturalandOrganicGroceryStores"
+                }
+            ]
+        }
+    }
+}

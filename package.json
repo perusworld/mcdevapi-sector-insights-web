@@ -1,0 +1,20 @@
+{
+  "name": "mcdevapi-sector-insights-web",
+  "version": "1.0.0",
+  "description": "Mastercard Developer API - Sector Insights - Reference Implementation - Angular/Web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/perusworld/mcdevapi-sector-insights-web"
+  },
+  "author": "Saravana Perumal Shanmugam <saravanaperumal@msn.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mastercard-sector-insights": "^1.0.2"
+  }
+}

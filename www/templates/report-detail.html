@@ -1,0 +1,10 @@
+<ion-view>
+    <ion-nav-title>{{report.Sector}} / {{report.Period}}</ion-nav-title>
+    <ion-content class="padding">
+        <nvd3-line-plus-bar-chart data="chartData" id="chartData" staggerLabels="true" showXAxis="true" showYAxis="true" interactive="true"
+            tooltips="true" showControls="true" showLegend="true" clipEdge="true" height="{{chart.height}}" xAxisTickFormat="xAxisTickFormat()"
+            y1AxisTickFormat="y1AxisTickFormat()" y2AxisTickFormat="y2AxisTickFormat()" noData="Please wait loading data...">
+            <svg></svg>
+        </nvd3-line-plus-bar-chart>
+    </ion-content>
+</ion-view>

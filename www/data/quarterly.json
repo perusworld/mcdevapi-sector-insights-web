@@ -1,0 +1,54 @@
+{
+    "SectorRecordList": {
+        "Count": 4,
+        "Message": "Success",
+        "SectorRecordArray": {
+            "SectorRecord": [
+                {
+                    "AverageTicketIndex": -0.015309221,
+                    "BeginDate": "9/7/2014",
+                    "Country": "US",
+                    "Ecomm": "NO",
+                    "EndDate": "1/3/2015",
+                    "Period": "Quarterly",
+                    "SalesIndex": 0.070222261999999994,
+                    "SalesIndexValue": 22029890.420000002,
+                    "Sector": "U.S.NaturalandOrganicGroceryStores"
+                },
+                {
+                    "AverageTicketIndex": 0.00025336100000000002,
+                    "BeginDate": "6/15/2014",
+                    "Country": "US",
+                    "Ecomm": "NO",
+                    "EndDate": "9/6/2014",
+                    "Period": "Quarterly",
+                    "SalesIndex": 0.098200253000000001,
+                    "SalesIndexValue": 14586848.49,
+                    "Sector": "U.S.NaturalandOrganicGroceryStores"
+                },
+                {
+                    "AverageTicketIndex": -0.008106785,
+                    "BeginDate": "3/23/2014",
+                    "Country": "US",
+                    "Ecomm": "NO",
+                    "EndDate": "6/14/2014",
+                    "Period": "Quarterly",
+                    "SalesIndex": 0.093480745000000004,
+                    "SalesIndexValue": 13768292.67,
+                    "Sector": "U.S.NaturalandOrganicGroceryStores"
+                },
+                {
+                    "AverageTicketIndex": -0.0020472820000000001,
+                    "BeginDate": "12/29/2013",
+                    "Country": "US",
+                    "Ecomm": "NO",
+                    "EndDate": "3/22/2014",
+                    "Period": "Quarterly",
+                    "SalesIndex": 0.033862493,
+                    "SalesIndexValue": 13956974.119999999,
+                    "Sector": "U.S.NaturalandOrganicGroceryStores"
+                }
+            ]
+        }
+    }
+}
